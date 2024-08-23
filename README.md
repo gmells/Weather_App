@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+## <a name="introduction">:star2: Introduction</a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple Weather Application made into a Progressive Web App(PWA) using React with service workers.
 
-## Available Scripts
+## <a name="video">:movie_camera: Video</a>
 
-In the project directory, you can run:
+https://github.com/user-attachments/assets/3a736e67-f060-45bf-861e-a51e59a06b10
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Screenshot 2024-08-23 221624](https://github.com/user-attachments/assets/69984fbe-ba95-41c3-b8ff-b8b4c965f200)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## <a name="tech-stack">:gear: Tech Stack</a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- React.js
+- Service Workers
+  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## <a name="features">📋 Feature</a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+👉 Download: Downloadable to test PWA features
 
-### `npm run eject`
+👉 Global Search: Travel the World in Data.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+👉 Climate Focus: Feel the Weather Before You Step Outside.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## <a name="quick-start">🤸 Quick Start</a>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Follow these steps to set up the project locally on your machine.
 
-### Code Splitting
+**Prerequisites**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Make sure you have the following installed on your machine:
 
-### Analyzing the Bundle Size
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+**Cloning the Repository**
 
-### Making a Progressive Web App
+```bash
+https://github.com/gmells/Weather_App.git
+cd Weather_App
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**Installation**
 
-### Advanced Configuration
+Install the project dependencies using npm:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```bash
+npm install
+```
 
-### Deployment
+**Running the Project**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+```bash
+npm run dev
+```
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.

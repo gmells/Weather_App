@@ -16,6 +16,9 @@ https://github.com/user-attachments/assets/3a736e67-f060-45bf-861e-a51e59a06b10
 
 - React.js
 - Service Workers
+- Lighthouse
+- PWA
+- openweathermap.org
   
 
 ## <a name="features">📋 Feature</a>
